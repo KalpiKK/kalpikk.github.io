@@ -1,0 +1,10 @@
+@import "../../styles/_variables.scss";
+
+.menuTop{
+  width: 100%;
+  background-color: white;
+  height: 50px;
+  position: absolute;
+  z-index: -1;
+  font-family: $primary-font-family;
+}
